@@ -30,7 +30,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=sartajroshan&count_private=true&show_icons=true" alt="Sartaj" />
+<img align="right"  src="https://github-readme-stats-eta-wheat-26.vercel.app/api?username=sartajroshan&count_private=true&show_icons=true&include_all_commits=true" alt="Sartaj" />
 
 **Find me elsewhere:**  
 
@@ -53,15 +53,16 @@
 
 
 <a href="https://github.com/sartajroshan/sartajroshan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartajroshan&hide=makefile,html,tex&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-eta-wheat-26.vercel.app/api/top-langs/?username=sartajroshan&layout=compact&hide=css,makefile,html,tex&langs_count=8" />
 </a>
 
 
 ##
 
 <a href="https://github.com/sartajroshan/dotlottieloader-flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sartajroshan&repo=dotlottieloader-flutter" />
+  <img align="center" src="https://github-readme-stats-eta-wheat-26.vercel.app/api/pin/?username=sartajroshan&repo=dotlottieloader-flutter" />
 </a>
 <a href="https://github.com/qkopy/richlinkpreview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qkopy&repo=richlinkpreview" />
+  <img align="center" src="https://github-readme-stats-eta-wheat-26.vercel.app/api/pin/?username=qkopy&repo=richlinkpreview" />
 </a>
+
